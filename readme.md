@@ -14,6 +14,7 @@ https://www.tuzumma.com/
 Great article on designing a workflow for git
 https://www.flagship.io/git-branching-strategies/
 
-
+Beeminder, if you don't get your work done you have to pay them..
+https://www.beeminder.com/users/sign_up
 
 Things to look into
