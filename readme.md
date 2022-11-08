@@ -17,4 +17,9 @@ https://www.flagship.io/git-branching-strategies/
 Beeminder, if you don't get your work done you have to pay them..
 https://www.beeminder.com/users/sign_up
 
+GITHUB AI co pilot
+Pair programmer
+https://github.com/features/copilot
+
 Things to look into
+
