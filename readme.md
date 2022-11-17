@@ -76,3 +76,6 @@ Pineapple water
 cars
 https://www.carvana.com/cars/2009-2010-in-boston-ma?email-capture=
 
+Look into trying options trading
+
+
