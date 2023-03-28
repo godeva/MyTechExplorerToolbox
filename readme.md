@@ -1,3 +1,7 @@
+Best Git flow
+https://nvie.com/posts/a-successful-git-branching-model/
+
+
 Framework labtops
 Build your own labtop
 https://frame.work/products/laptop-12-gen-intel/configuration/edit
