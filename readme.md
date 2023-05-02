@@ -5,10 +5,14 @@ Idea Generation techniques:
 
 
 
+
 --------------------------------
 
 Best Git flow
 https://nvie.com/posts/a-successful-git-branching-model/
+
+Github AI Copilot
+https://github.com/features/copilot
 
 Framework labtops
 Build your own labtop
