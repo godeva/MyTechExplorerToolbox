@@ -1,6 +1,14 @@
+Idea Generation techniques:
+
+--------------------------------
+<img width="719" alt="image" src="https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png">
+
+
+
+--------------------------------
+
 Best Git flow
 https://nvie.com/posts/a-successful-git-branching-model/
-
 
 Framework labtops
 Build your own labtop
