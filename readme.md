@@ -8,6 +8,15 @@ Idea Generation techniques:
 
 --------------------------------
 
+personality type
+https://www.16personalities.com/esfj-personality
+
+Control your mouse by looking at your screen
+https://precisiongazemouse.org/
+
+MusicLM: Generating Music From Text
+https://google-research.github.io/seanet/musiclm/examples/
+
 Best Git flow
 https://nvie.com/posts/a-successful-git-branching-model/
 
