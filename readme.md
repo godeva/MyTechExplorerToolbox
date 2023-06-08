@@ -8,6 +8,10 @@ Idea Generation techniques:
 
 --------------------------------
 
+Diagraming
+https://draw.io/
+https://creately.com/
+
 personality type
 https://www.16personalities.com/esfj-personality
 
