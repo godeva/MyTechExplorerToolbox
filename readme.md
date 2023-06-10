@@ -8,6 +8,9 @@ Idea Generation techniques:
 
 --------------------------------
 
+Edit PDFs assuming you don't mind them being online. You can delete it after downloading.
+Sedja online
+
 Diagraming
 https://draw.io/
 https://creately.com/
