@@ -8,6 +8,12 @@ Idea Generation techniques:
 
 --------------------------------
 
+UX Design resources
+interaction design academy
+coursera UX
+nielsen norman group ux
+general assembly (more of a bootcamp)
+
 Edit PDFs assuming you don't mind them being online. You can delete it after downloading.
 Sedja online
 
