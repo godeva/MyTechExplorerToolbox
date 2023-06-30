@@ -7,6 +7,10 @@ Idea Generation techniques:
 
 
 --------------------------------
+Given When Then is a good coding standard for testing. 
+
+seperate mock data to sperate files.
+
 
 
 Upload to testflight
