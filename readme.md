@@ -8,6 +8,10 @@ Idea Generation techniques:
 
 --------------------------------
 
+
+Upload to testflight
+https://www.youtube.com/watch?v=pWcInk50vIE
+
 UX Design resources
 interaction design academy
 coursera UX
