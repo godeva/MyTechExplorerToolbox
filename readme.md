@@ -14,6 +14,8 @@ seperate mock data to sperate files.
 Automating software to deploy to testflight for ci/cd pipelines
 -fastlane
 -bitrise
+https://bitrise.io/
+
 
 
 Upload to testflight
