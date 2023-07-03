@@ -11,6 +11,9 @@ Given When Then is a good coding standard for testing.
 
 seperate mock data to sperate files.
 
+Automating software to deploy to testflight for ci/cd pipelines
+-fastlane
+-bitrise
 
 
 Upload to testflight
