@@ -7,6 +7,10 @@ Idea Generation techniques:
 
 
 --------------------------------
+Open source more powerful version of marcdown
+https://markdoc.dev/
+
+
 Given When Then is a good coding standard for testing. 
 
 seperate mock data to sperate files.
