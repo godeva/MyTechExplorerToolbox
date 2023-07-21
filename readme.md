@@ -1,5 +1,8 @@
 Idea Generation techniques:
 
+https://www.hoteltonight.com/
+Great way to get hotels the night before.
+
 swift updates
 https://blog.appcircle.io/category/ios
 
