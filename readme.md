@@ -1,5 +1,9 @@
 Idea Generation techniques:
 
+swift updates
+https://blog.appcircle.io/category/ios
+
+
 --------------------------------
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png">
 
