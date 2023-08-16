@@ -1,8 +1,13 @@
 Best Podcast that I listen to for getting better at start up ing
 https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909
 
+Best thing a developer can do is learn how to be able to read code. Reading code is like a choose your own adventure book where each section can take ya somewhere random.
 
-Idea Generation techniques:
+Give yourself time to read code faster so you can pick it up faster
+
+Don't be iterate, the more its going to help you skip those iterations. 
+
+Best way to review a PR is to have one person assigned to a PR and do not contact the PR creator and do some comments.
 
 https://www.hoteltonight.com/
 Great way to get hotels the night before.
@@ -10,6 +15,7 @@ Great way to get hotels the night before.
 swift updates
 https://blog.appcircle.io/category/ios
 
+Idea Generation techniques:
 
 --------------------------------
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png">
