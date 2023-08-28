@@ -41,7 +41,8 @@ Automating software to deploy to testflight for ci/cd pipelines
 -bitrise
 https://bitrise.io/
 
-
+https://git-scm.com/docs/git-reflog
+goes through the logs and can select to see them or revert to them in git.
 
 Upload to testflight
 https://www.youtube.com/watch?v=pWcInk50vIE
