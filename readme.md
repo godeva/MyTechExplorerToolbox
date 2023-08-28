@@ -9,6 +9,8 @@ Don't be iterate, the more its going to help you skip those iterations.
 
 Best way to review a PR is to have one person assigned to a PR and do not contact the PR creator and do some comments.
 
+Http client server for python api calls.
+https://docs.aiohttp.org/en/stable/
 
 Find out what makes your skills better
 https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx
