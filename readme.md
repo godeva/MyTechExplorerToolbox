@@ -1,3 +1,7 @@
+Cute pictures to teach folks computersciece when they are starting out
+http://csillustrated.berkeley.edu/posters.php
+
+
 Best Podcast that I listen to for getting better at start up ing
 https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909
 
