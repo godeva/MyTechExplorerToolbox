@@ -1,3 +1,6 @@
+github developer practice for interviews
+https://education.github.com/pack
+
 Cute pictures to teach folks computersciece when they are starting out
 http://csillustrated.berkeley.edu/posters.php
 
