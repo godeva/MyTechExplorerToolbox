@@ -1,3 +1,6 @@
+Best resource to learn git for first time users. Use this resource and have the person play around with it.
+https://learngitbranching.js.org/?locale=en_US
+
 github developer practice for interviews
 https://education.github.com/pack
 
@@ -8,8 +11,6 @@ Great for preparing leetcode interviews
 https://www.youtube.com/watch?v=8wysIxzqgPI
 Follow this roadmap first.
 https://neetcode.io/roadmap
-
-
 
 Best Podcast that I listen to for getting better at start up ing
 https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909
