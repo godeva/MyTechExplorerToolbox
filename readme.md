@@ -32,6 +32,9 @@ https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx
 https://www.hoteltonight.com/
 Great way to get hotels the night before.
 
+https://www.skyscanner.com/
+for cheap flights
+
 swift updates
 https://blog.appcircle.io/category/ios
 
