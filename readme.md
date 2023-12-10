@@ -42,6 +42,13 @@ Great way to get hotels the night before.
 https://www.skyscanner.com/
 for cheap flights
 
+Cheap Buses
+https://us.megabus.com/
+https://www.ourbus.com/?source=aw&sv1=affiliate&sv_campaign_id=922583&awc=55393_1699888218_bd74ea1ba826d11f0bf6a4e268e5c935
+https://www.flixbus.com/?_sp=45ae4333-6dc3-440f-b969-60bdd2780a22.1702225529877&_spnuid=d45fe10b-aacb-4017-a9ce-f372372d88df_1702225529777
+
+
+
 swift updates
 https://blog.appcircle.io/category/ios
 
