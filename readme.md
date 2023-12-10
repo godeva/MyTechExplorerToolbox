@@ -15,6 +15,10 @@ https://neetcode.io/roadmap
 Notes:
 https://hackaday.com/
 
+AWS serviceless patterns
+https://serverlessland.com/
+
+
 Best Podcast that I listen to for getting better at start up ing
 https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909
 
