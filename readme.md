@@ -19,6 +19,9 @@ AWS serviceless patterns
 https://serverlessland.com/
 
 
+Oura Ring: kinda like an apple watch or fitbit but in a ring
+https://ouraring.com/
+
 Best Podcast that I listen to for getting better at start up ing
 https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909
 
