@@ -19,6 +19,9 @@ AWS serviceless patterns
 https://serverlessland.com/
 
 
+Interesting ai tool for taking a image and converting it into a video.
+https://research.runwayml.com/gen2
+
 Oura Ring: kinda like an apple watch or fitbit but in a ring
 https://ouraring.com/
 
