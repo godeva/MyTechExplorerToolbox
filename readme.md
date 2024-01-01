@@ -1,168 +1,103 @@
 # Tech Explorer's Toolbox: A Comprehensive Collection of Resources
 
-- **Best resource to learn git for first time users. Use this resource and have the person play around with it.**
-  [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
+# Table of Contents
+- [Git and Development Tools](#git-and-development-tools)
+- [Interview Preparation](#interview-preparation)
+- [Learning Resources](#learning-resources)
+- [Travel and Accommodation](#travel-and-accommodation)
+- [Swift Updates](#swift-updates)
+- [Idea Generation Techniques](#idea-generation-techniques)
+- [Open Source and Documentation](#open-source-and-documentation)
+- [Testing and CI/CD](#testing-and-cicd)
+- [UX Design](#ux-design)
+- [PDF Editing and Diagramming](#pdf-editing-and-diagramming)
+- [Personality Type and Control](#personality-type-and-control)
+- [Music and Art](#music-and-art)
+- [Git Flow and Copilot](#git-flow-and-copilot)
+- [Hardware and Gadgets](#hardware-and-gadgets)
+- [Startups and Workflow Design](#startups-and-workflow-design)
+- [Personal Improvement and Fun](#personal-improvement-and-fun)
+- [Cryptocurrency and Blockchain](#cryptocurrency-and-blockchain)
 
-- **GitHub developer practice for interviews**
-  [GitHub Education Pack](https://education.github.com/pack)
+## Git and Development Tools
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Best resource for learning git for first-time users.
+- [GitHub Education Pack](https://education.github.com/pack) - GitHub developer practice for interviews.
+- [Git Reflog Documentation](https://git-scm.com/docs/git-reflog) - Goes through the logs and can select to see them or revert to them in git.
 
-- **Cute pictures to teach folks computer science when they are starting out**
-  [CS Illustrated Posters](http://csillustrated.berkeley.edu/posters.php)
+## Interview Preparation
+- [GitHub Copilot](https://github.com/features/copilot) - AI tool for code suggestions and completion.
+- [NeetCode Roadmap](https://neetcode.io/roadmap) - Roadmap for preparing LeetCode interviews.
 
-- **Great for preparing LeetCode interviews**
-  [YouTube Video](https://www.youtube.com/watch?v=8wysIxzqgPI)
-  Follow this roadmap first: [NeetCode Roadmap](https://neetcode.io/roadmap)
+## Learning Resources
+- [CS Illustrated Posters](http://csillustrated.berkeley.edu/posters.php) - Cute pictures to teach computer science.
+- [Hackaday](https://hackaday.com/) - Notes on various topics.
+- [Serverless Land](https://serverlessland.com/) - AWS Serverless Patterns.
+- [AppCircle Blog](https://blog.appcircle.io/category/ios) - Swift updates.
+- [Markdoc](https://markdoc.dev/) - Open-source version of markdown.
 
-- **DragGAN: AI tool kinda like Photoshop but can be used to modify your appearance.**
-  - [DragGAN GitHub](https://github.com/XingangPan/DragGAN)
+## Travel and Accommodation
+- [HotelTonight](https://www.hoteltonight.com/) - Great way to get hotels the night before.
+- [Skyscanner](https://www.skyscanner.com/) - Search for cheap flights.
+- [Megabus](https://us.megabus.com/) - Affordable bus travel.
+- [OurBus](https://www.ourbus.com/?source=aw&sv1=affiliate&sv_campaign_id=922583&awc=55393_1699888218_bd74ea1ba826d11f0bf6a4e268e5c935) - Another bus service.
+- [FlixBus](https://www.flixbus.com/?_sp=45ae4333-6dc3-440f-b969-60bdd2780a22.1702225529877&_spnuid=d45fe10b-aacb-4017-a9ce-f372372d88df_1702225529777) - Yet another bus option.
 
-- **Notes**
-  [Hackaday](https://hackaday.com/)
+## Swift Updates
+- [AppCircle Blog](https://blog.appcircle.io/category/ios) - Updates on Swift programming.
 
-- **AWS Serverless Patterns**
-  [Serverless Land](https://serverlessland.com/)
+## Idea Generation Techniques
+- ![Idea Generation Techniques](https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png) - Visualization of idea generation techniques.
 
-- **Interesting AI tool for converting an image into a video**
-  [RunwayML Gen2](https://research.runwayml.com/gen2)
+## Open Source and Documentation
+- [RunwayML Gen2](https://research.runwayml.com/gen2) - Interesting AI tool for converting images into videos.
+- [GitHub Copilot](https://github.com/features/copilot) - AI-powered pair programming assistant.
+- [DragGAN GitHub](https://github.com/XingangPan/DragGAN) - AI tool like Photoshop for modifying appearance.
 
-- **Oura Ring: Kinda like an Apple Watch or Fitbit but in a ring**
-  [Oura Ring](https://ouraring.com/)
+## Testing and CI/CD
+- [Fastlane](https://fastlane.tools/) - Automating software deployment for CI/CD pipelines.
+- [Bitrise](https://bitrise.io/) - CI/CD platform.
+- [Upload to TestFlight Tutorial](https://www.youtube.com/watch?v=pWcInk50vIE) - Tutorial on uploading to TestFlight.
 
-- **Best Podcast for getting better at startups**
-  [Invest Like The Best with Patrick O'Shaughnessy](https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909)
+## UX Design
+- Interaction Design Academy - UX design resource.
+- Coursera UX - Online UX courses.
+- Nielsen Norman Group UX - UX design guidelines.
+- General Assembly (more of a boot camp) - UX boot camp.
 
-- **Best thing a developer can do is learn how to read code. Reading code is like a choose-your-own-adventure book where each section can take you somewhere random.**
-  - Give yourself time to read code faster so you can pick it up faster.
-  - Don't be iterative; the more it's going to help you skip those iterations.
-  - Best way to review a PR is to have one person assigned to a PR and do not contact the PR creator and do some comments.
+## PDF Editing and Diagramming
+- [Sedja Online](https://www.sedja.com/) - Online PDF editing.
+- [Draw.io](https://draw.io/) - Online diagramming tool.
+- [Creately](https://creately.com/) - Another online diagramming tool.
 
-- **HTTP client-server for Python API calls**
-  [Aiohttp](https://docs.aiohttp.org/en/stable/)
+## Personality Type and Control
+- [16 Personalities - ESFJ Personality](https://www.16personalities.com/esfj-personality) - Personality type assessment.
+- [Precision Gaze Mouse](https://precisiongazemouse.org/) - Control your mouse by looking at your screen.
 
-- **Find out what makes your skills better**
-  [Gallup StrengthsFinder](https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx)
+## Music and Art
+- [Google Research MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - Generating music from text.
 
-- [HotelTonight](https://www.hoteltonight.com/): Great way to get hotels the night before.
-- [Skyscanner](https://www.skyscanner.com/): For cheap flights.
+## Git Flow and Copilot
+- [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) - Best Git flow model.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI-powered pair programmer.
 
-- **Cheap Buses**
-  - [Megabus](https://us.megabus.com/)
-  - [OurBus](https://www.ourbus.com/?source=aw&sv1=affiliate&sv_campaign_id=922583&awc=55393_1699888218_bd74ea1ba826d11f0bf6a4e268e5c935)
-  - [FlixBus](https://www.flixbus.com/?_sp=45ae4333-6dc3-440f-b969-60bdd2780a22.1702225529877&_spnuid=d45fe10b-aacb-4017-a9ce-f372372d88df_1702225529777)
+## Hardware and Gadgets
+- [Oura Ring](https://ouraring.com/) - Wearable ring similar to Apple Watch.
+- [Apple Magic Keyboard](https://www.apple.com/magickeyboard/) - Apple's keyboard.
+- [KBDfans](https://kbdfans.com/collections/65-keyboard) - Keyboard enthusiasts' site.
+- [ZSA Moonlander](https://www.zsa.io/moonlander/buy) - Ergonomic keyboard.
+- [Framework Laptops](https://frame.work/products/laptop-12-gen-intel/configuration/edit) - Build your own laptop.
 
-- **Swift updates**
-  [AppCircle Blog](https://blog.appcircle.io/category/ios)
+## Startups and Workflow Design
+- [Zumma](https://www.tuzumma.com/) - Startup focusing on fintech.
+- [Git Branching Strategies](https://www.flagship.io/git-branching-strategies/) - Article on designing a workflow for Git.
 
-- **Idea Generation Techniques:**
-  ![Idea Generation Techniques](https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png)
+## Personal Improvement and Fun
+- [Invest Like The Best with Patrick O'Shaughnessy](https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909) - Podcast for improving startup skills.
+- [Beeminder](https://www.beeminder.com/users/sign_up) - Goal-setting platform.
+- Learn Russian with Babbel or Memrise - Language learning apps.
+- [Control your mouse by looking at your screen](https://precisiongazemouse.org/) - Precision gaze mouse.
 
-- **Open-source more powerful version of markdown**
-  [Markdoc](https://markdoc.dev/)
-
-- **Given When Then is a good coding standard for testing.**
-  - Separate mock data to separate files.
-
-- **Automating software to deploy to TestFlight for CI/CD pipelines**
-  - [Fastlane](https://fastlane.tools/)
-  - [Bitrise](https://bitrise.io/)
-
-- [Git Reflog Documentation](https://git-scm.com/docs/git-reflog): Goes through the logs and can select to see them or revert to them in git.
-
-- **Upload to TestFlight**
-  [YouTube Tutorial](https://www.youtube.com/watch?v=pWcInk50vIE)
-
-- **UX Design resources:**
-  - Interaction Design Academy
-  - Coursera UX
-  - Nielsen Norman Group UX
-  - General Assembly (more of a boot camp)
-
-- **Edit PDFs (online) assuming you don't mind them being online. You can delete it after downloading.**
-  [Sedja Online](https://www.sedja.com/)
-
-- **Diagramming**
-  - [Draw.io](https://draw.io/)
-  - [Creately](https://creately.com/)
-
-- **Personality Type**
-  [16 Personalities - ESFJ Personality](https://www.16personalities.com/esfj-personality)
-
-- **Control your mouse by looking at your screen**
-  [Precision Gaze Mouse](https://precisiongazemouse.org/)
-
-- **MusicLM: Generating Music From Text**
-  [Google Research MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
-
-- **Best Git Flow**
-  [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
-
-- **GitHub AI Copilot**
-  [GitHub Copilot](https://github.com/features/copilot)
-
-- **Framework Laptops: Build your own laptop**
-  [Framework Laptops](https://frame.work/products/laptop-12-gen-intel/configuration/edit)
-
-- **Keyboards**
-  - [Apple Magic Keyboard](https://www.apple.com/magickeyboard/)
-  - [KBDfans](https://kbdfans.com/collections/65-keyboard)
-  - [ZSA Moonlander](https://www.zsa.io/moonlander/buy)
-
-- **Startups**
-  - Zumma, met founder at a fintech conference. Appreciated the cause. [Zumma](https://www.tuzumma.com/)
-
-- **Great article on designing a workflow for Git**
-  [Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
-
-- **Beeminder: If you don't get your work done, you have to pay them.**
-  [Beeminder](https://www.beeminder.com/users/sign_up)
-
-- **GitHub AI Copilot: Pair programmer**
-  [GitHub Copilot](https://github.com/features/copilot)
-
-- **Things to look into:**
-  - Nest.js
-  - Either.js
-  - Uniswap SDK
-  - ZMQ (not important, just a pubsub)
-  - InfluxDB
-  - Tether API for Python (questionable)
-  - Circle API docs
-  - Solidity/Rust
-
-- **Learn Russian for fun**
-  - Consider using Babbel or Memrise
-
-- **Build a miner**
-  - [Solana Developers](https://solana.com/developers)
-  - Stratum V2
-  - Web3.js (3D JavaScript model)
-  - [Golden](https://golden.xyz/)
-
-- **Understand Brave fingerprinting. Install Brave on the phone and add those settings to resolve fingerprinting. Delete Firefox Focus afterwards.**
-  [YouTube Tutorial](https://www.youtube.com/watch?v=jlzZqrN8txQ&list=PLZWRruJDdjy3Nba_fUUCaTAjTzg_D27me)
-
-- [YouTube Tutorial](https://www.youtube.com/watch?v=ji3-8Km4Jhg)
-- [YouTube Tutorial](https://www.youtube.com/watch?v=9UxnRTgO6Yk)
-
-- **Filecoin**
-- **Cardano**
-- **Soluna**
-- **Avalanche**
-- **Polkadot**
-- **Chainlink**
-- **Cosmos**
-- **Polygon**
-- **Cosmos - good one**
-
-- Ledger has an option to lock coins to earn interest. Staking, you can stake coins through Ledger and get rewards.
-
-- Get water infused:
-  - Peach Apple
-  - Cucumber Mint
-  - Apple Vanilla
-  - Pineapple Water
-
-- **Cars**
-  [Carvana](https://www.carvana.com/cars/2009-2010-in-boston-ma?email-capture=)
-
-- Look into trying options trading.
+## Cryptocurrency and Blockchain
+- [Solana Developers](https://solana.com/developers) - Building on the Solana blockchain.
+- Stratum V2 - Cryptocurrency protocol.
+- Web3.js (3D JavaScript model) - JavaScript library for 3D models.
