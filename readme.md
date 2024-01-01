@@ -18,6 +18,8 @@
 - [Startups and Workflow Design](#startups-and-workflow-design)
 - [Personal Improvement and Fun](#personal-improvement-and-fun)
 - [Cryptocurrency and Blockchain](#cryptocurrency-and-blockchain)
+- [Things to look into](#things-to-look-into)
+
 
 ## Git and Development Tools
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Best resource for learning git for first-time users.
