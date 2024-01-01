@@ -1,6 +1,6 @@
 # Tech Explorer's Toolbox: A Comprehensive Collection of Resources
 
-# Table of Contents
+### Table of Contents
 - [Git and Development Tools](#git-and-development-tools)
 - [Interview Preparation](#interview-preparation)
 - [Learning Resources](#learning-resources)
