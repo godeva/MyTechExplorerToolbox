@@ -101,3 +101,22 @@
 - [Solana Developers](https://solana.com/developers) - Building on the Solana blockchain.
 - Stratum V2 - Cryptocurrency protocol.
 - Web3.js (3D JavaScript model) - JavaScript library for 3D models.
+- **Filecoin**
+- **Cardano**
+- **Soluna**
+- **Avalanche**
+- **Polkadot**
+- **Chainlink**
+- **Cosmos**
+- **Polygon**
+- **Cosmos - good one**
+
+- **Things to look into:**
+  - Nest.js
+  - Either.js
+  - Uniswap SDK
+  - ZMQ (not important, just a pubsub)
+  - InfluxDB
+  - Tether API for Python (questionable)
+  - Circle API docs
+  - Solidity/Rust
