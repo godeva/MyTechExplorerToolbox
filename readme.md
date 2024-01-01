@@ -1,200 +1,163 @@
-Best resource to learn git for first time users. Use this resource and have the person play around with it.
-https://learngitbranching.js.org/?locale=en_US
+- **Best resource to learn git for first time users. Use this resource and have the person play around with it.**
+  [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 
-github developer practice for interviews
-https://education.github.com/pack
+- **GitHub developer practice for interviews**
+  [GitHub Education Pack](https://education.github.com/pack)
 
-Cute pictures to teach folks computersciece when they are starting out
-http://csillustrated.berkeley.edu/posters.php
+- **Cute pictures to teach folks computer science when they are starting out**
+  [CS Illustrated Posters](http://csillustrated.berkeley.edu/posters.php)
 
-Great for preparing leetcode interviews
-https://www.youtube.com/watch?v=8wysIxzqgPI
-Follow this roadmap first.
-https://neetcode.io/roadmap
+- **Great for preparing LeetCode interviews**
+  [YouTube Video](https://www.youtube.com/watch?v=8wysIxzqgPI)
+  Follow this roadmap first: [NeetCode Roadmap](https://neetcode.io/roadmap)
 
-DragGAN: AI tool kinda like photoshop but can be used to modify your apperence.
-https://github.com/XingangPan/DragGAN
+- **Notes**
+  [Hackaday](https://hackaday.com/)
 
-Notes:
-https://hackaday.com/
+- **AWS Serverless Patterns**
+  [Serverless Land](https://serverlessland.com/)
 
-AWS serviceless patterns
-https://serverlessland.com/
+- **Interesting AI tool for converting an image into a video**
+  [RunwayML Gen2](https://research.runwayml.com/gen2)
 
+- **Oura Ring: Kinda like an Apple Watch or Fitbit but in a ring**
+  [Oura Ring](https://ouraring.com/)
 
-Interesting ai tool for taking a image and converting it into a video.
-https://research.runwayml.com/gen2
+- **Best Podcast for getting better at startups**
+  [Invest Like The Best with Patrick O'Shaughnessy](https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909)
 
-Oura Ring: kinda like an apple watch or fitbit but in a ring
-https://ouraring.com/
+- **Best thing a developer can do is learn how to read code. Reading code is like a choose-your-own-adventure book where each section can take you somewhere random.**
+  - Give yourself time to read code faster so you can pick it up faster.
+  - Don't be iterative; the more it's going to help you skip those iterations.
+  - Best way to review a PR is to have one person assigned to a PR and do not contact the PR creator and do some comments.
 
-Best Podcast that I listen to for getting better at start up ing
-https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909
+- **HTTP client-server for Python API calls**
+  [Aiohttp](https://docs.aiohttp.org/en/stable/)
 
-Best thing a developer can do is learn how to be able to read code. Reading code is like a choose your own adventure book where each section can take ya somewhere random.
+- **Find out what makes your skills better**
+  [Gallup StrengthsFinder](https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx)
 
-Give yourself time to read code faster so you can pick it up faster
+- [HotelTonight](https://www.hoteltonight.com/): Great way to get hotels the night before.
+- [Skyscanner](https://www.skyscanner.com/): For cheap flights.
 
-Don't be iterate, the more its going to help you skip those iterations. 
+- **Cheap Buses**
+  - [Megabus](https://us.megabus.com/)
+  - [OurBus](https://www.ourbus.com/?source=aw&sv1=affiliate&sv_campaign_id=922583&awc=55393_1699888218_bd74ea1ba826d11f0bf6a4e268e5c935)
+  - [FlixBus](https://www.flixbus.com/?_sp=45ae4333-6dc3-440f-b969-60bdd2780a22.1702225529877&_spnuid=d45fe10b-aacb-4017-a9ce-f372372d88df_1702225529777)
 
-Best way to review a PR is to have one person assigned to a PR and do not contact the PR creator and do some comments.
+- **Swift updates**
+  [AppCircle Blog](https://blog.appcircle.io/category/ios)
 
-Http client server for python api calls.
-https://docs.aiohttp.org/en/stable/
+- **Idea Generation Techniques:**
+  ![Idea Generation Techniques](https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png)
 
-Find out what makes your skills better
-https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx
+- **Open-source more powerful version of markdown**
+  [Markdoc](https://markdoc.dev/)
 
-https://www.hoteltonight.com/
-Great way to get hotels the night before.
+- **Given When Then is a good coding standard for testing.**
+  - Separate mock data to separate files.
 
-https://www.skyscanner.com/
-for cheap flights
+- **Automating software to deploy to TestFlight for CI/CD pipelines**
+  - [Fastlane](https://fastlane.tools/)
+  - [Bitrise](https://bitrise.io/)
 
-Cheap Buses
-https://us.megabus.com/
-https://www.ourbus.com/?source=aw&sv1=affiliate&sv_campaign_id=922583&awc=55393_1699888218_bd74ea1ba826d11f0bf6a4e268e5c935
-https://www.flixbus.com/?_sp=45ae4333-6dc3-440f-b969-60bdd2780a22.1702225529877&_spnuid=d45fe10b-aacb-4017-a9ce-f372372d88df_1702225529777
+- [Git Reflog Documentation](https://git-scm.com/docs/git-reflog): Goes through the logs and can select to see them or revert to them in git.
 
+- **Upload to TestFlight**
+  [YouTube Tutorial](https://www.youtube.com/watch?v=pWcInk50vIE)
 
+- **UX Design resources:**
+  - Interaction Design Academy
+  - Coursera UX
+  - Nielsen Norman Group UX
+  - General Assembly (more of a boot camp)
 
-swift updates
-https://blog.appcircle.io/category/ios
+- **Edit PDFs (online) assuming you don't mind them being online. You can delete it after downloading.**
+  [Sedja Online](https://www.sedja.com/)
 
-Idea Generation techniques:
+- **Diagramming**
+  - [Draw.io](https://draw.io/)
+  - [Creately](https://creately.com/)
 
---------------------------------
-<img width="719" alt="image" src="https://user-images.githubusercontent.com/16872771/235682975-1e534103-2a44-4d2f-ad3d-ca8bf606ada3.png">
+- **Personality Type**
+  [16 Personalities - ESFJ Personality](https://www.16personalities.com/esfj-personality)
 
+- **Control your mouse by looking at your screen**
+  [Precision Gaze Mouse](https://precisiongazemouse.org/)
 
+- **MusicLM: Generating Music From Text**
+  [Google Research MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 
+- **Best Git Flow**
+  [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
 
---------------------------------
-Open source more powerful version of marcdown
-https://markdoc.dev/
+- **GitHub AI Copilot**
+  [GitHub Copilot](https://github.com/features/copilot)
 
+- **Framework Laptops: Build your own laptop**
+  [Framework Laptops](https://frame.work/products/laptop-12-gen-intel/configuration/edit)
 
-Given When Then is a good coding standard for testing. 
-
-seperate mock data to sperate files.
-
-Automating software to deploy to testflight for ci/cd pipelines
--fastlane
--bitrise
-https://bitrise.io/
-
-https://git-scm.com/docs/git-reflog
-goes through the logs and can select to see them or revert to them in git.
-
-Upload to testflight
-https://www.youtube.com/watch?v=pWcInk50vIE
-
-UX Design resources
-interaction design academy
-coursera UX
-nielsen norman group ux
-general assembly (more of a bootcamp)
-
-Edit PDFs assuming you don't mind them being online. You can delete it after downloading.
-Sedja online
-
-Diagraming
-https://draw.io/
-https://creately.com/
-
-personality type
-https://www.16personalities.com/esfj-personality
-
-Control your mouse by looking at your screen
-https://precisiongazemouse.org/
-
-MusicLM: Generating Music From Text
-https://google-research.github.io/seanet/musiclm/examples/
-
-Best Git flow
-https://nvie.com/posts/a-successful-git-branching-model/
-
-Github AI Copilot
-https://github.com/features/copilot
-
-Framework labtops
-Build your own labtop
-https://frame.work/products/laptop-12-gen-intel/configuration/edit
-
-Keyboards
-Apple magic keyboard 
-https://kbdfans.com/collections/65-keyboard
-https://www.zsa.io/moonlander/buy
-
-Start ups
-Zumma, meet founder at fin tech conference. Apperciated the cause
-https://www.tuzumma.com/
-
-Great article on designing a workflow for git
-https://www.flagship.io/git-branching-strategies/
-
-Beeminder, if you don't get your work done you have to pay them..
-https://www.beeminder.com/users/sign_up
-
-GITHUB AI co pilot
-Pair programmer
-https://github.com/features/copilot
-
-Things to look into
-
-Nest js
-either js
-uniswap SDK
-ZMQ (not important just a pubsub)
-influx db
-
-
-tether api python. questionable
-circle api docs
-solidity/rust
-
-
-learn russian for fun
-consider using babbel or memrise
-
-build a miner
-https://solana.com/developers
-stratum v2
-web3.js
-three .js (3d javascript model)
-https://golden.xyz/
-https://golden.com/
-
-Understand brave fingerprinting Install brave on phone and add those setting to resolve fingerprinting Delete firefox focus afterwards
-https://www.youtube.com/watch?v=jlzZqrN8txQ&list=PLZWRruJDdjy3Nba_fUUCaTAjTzg_D27me
-
-https://www.youtube.com/watch?v=ji3-8Km4Jhg
-
-https://www.youtube.com/watch?v=9UxnRTgO6Yk
-
-
-filecoin
-Cordano
-soluna
-avlance 
-pokedot
-chainlink 
-cosmos
-polygon
-cosmos - good one 
-
-ledger has an option to lock coins to earn interest. 
-staking, you can stake coins through ledger and get rewards
-
-get water infused 
-peach apple
-cucumber mint
-apple vinella
-Pineapple water
-
-cars
-https://www.carvana.com/cars/2009-2010-in-boston-ma?email-capture=
-
-Look into trying options trading
-
-
+- **Keyboards**
+  - [Apple Magic Keyboard](https://www.apple.com/magickeyboard/)
+  - [KBDfans](https://kbdfans.com/collections/65-keyboard)
+  - [ZSA Moonlander](https://www.zsa.io/moonlander/buy)
+
+- **Startups**
+  - Zumma, met founder at a fintech conference. Appreciated the cause. [Zumma](https://www.tuzumma.com/)
+
+- **Great article on designing a workflow for Git**
+  [Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
+
+- **Beeminder: If you don't get your work done, you have to pay them.**
+  [Beeminder](https://www.beeminder.com/users/sign_up)
+
+- **GitHub AI Copilot: Pair programmer**
+  [GitHub Copilot](https://github.com/features/copilot)
+
+- **Things to look into:**
+  - Nest.js
+  - Either.js
+  - Uniswap SDK
+  - ZMQ (not important, just a pubsub)
+  - InfluxDB
+  - Tether API for Python (questionable)
+  - Circle API docs
+  - Solidity/Rust
+
+- **Learn Russian for fun**
+  - Consider using Babbel or Memrise
+
+- **Build a miner**
+  - [Solana Developers](https://solana.com/developers)
+  - Stratum V2
+  - Web3.js (3D JavaScript model)
+  - [Golden](https://golden.xyz/)
+
+- **Understand Brave fingerprinting. Install Brave on the phone and add those settings to resolve fingerprinting. Delete Firefox Focus afterwards.**
+  [YouTube Tutorial](https://www.youtube.com/watch?v=jlzZqrN8txQ&list=PLZWRruJDdjy3Nba_fUUCaTAjTzg_D27me)
+
+- [YouTube Tutorial](https://www.youtube.com/watch?v=ji3-8Km4Jhg)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=9UxnRTgO6Yk)
+
+- **Filecoin**
+- **Cardano**
+- **Soluna**
+- **Avalanche**
+- **Polkadot**
+- **Chainlink**
+- **Cosmos**
+- **Polygon**
+- **Cosmos - good one**
+
+- Ledger has an option to lock coins to earn interest. Staking, you can stake coins through Ledger and get rewards.
+
+- Get water infused:
+  - Peach Apple
+  - Cucumber Mint
+  - Apple Vanilla
+  - Pineapple Water
+
+- **Cars**
+  [Carvana](https://www.carvana.com/cars/2009-2010-in-boston-ma?email-capture=)
+
+- Look into trying options trading.
