@@ -1,4 +1,4 @@
-# Gothams Tech Explorer's Toolbox: A Comprehensive Collection of Random Resources
+# Gotham's Tech Explorer's Toolbox: A Comprehensive Collection of Random Resources
 
 ### Table of Contents
 - [Git and Development Tools](#git-and-development-tools)
