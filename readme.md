@@ -1,3 +1,5 @@
+# Tech Explorer's Toolbox: A Comprehensive Collection of Resources
+
 - **Best resource to learn git for first time users. Use this resource and have the person play around with it.**
   [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 
