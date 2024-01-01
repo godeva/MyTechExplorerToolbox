@@ -11,6 +11,9 @@
   [YouTube Video](https://www.youtube.com/watch?v=8wysIxzqgPI)
   Follow this roadmap first: [NeetCode Roadmap](https://neetcode.io/roadmap)
 
+- **DragGAN: AI tool kinda like Photoshop but can be used to modify your appearance.**
+  - [DragGAN GitHub](https://github.com/XingangPan/DragGAN)
+
 - **Notes**
   [Hackaday](https://hackaday.com/)
 
