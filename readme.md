@@ -25,6 +25,8 @@
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Best resource for learning git for first-time users.
 - [GitHub Education Pack](https://education.github.com/pack) - GitHub developer practice for interviews.
 - [Git Reflog Documentation](https://git-scm.com/docs/git-reflog) - Goes through the logs and can select to see them or revert to them in git.
+- [Instabug Documentation](https://www.instabug.com/) - Instabug is like firebase or adobe analytics except it does everything for you. Good for POC development.
+
 
 ## Interview Preparation
 - [GitHub Copilot](https://github.com/features/copilot) - AI tool for code suggestions and completion.
