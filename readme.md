@@ -21,6 +21,13 @@
 - [Things to look into](#things-to-look-into)
 
 
+## Advice or Works of Wisdom
+Problem 
+Solution 
+Unique insight 
+Not can it be built…. It’s should it be built. 
+
+
 ## Git and Development Tools
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Best resource for learning git for first-time users.
 - [GitHub Education Pack](https://education.github.com/pack) - GitHub developer practice for interviews.
