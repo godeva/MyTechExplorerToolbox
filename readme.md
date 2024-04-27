@@ -45,6 +45,7 @@ Not can it be built…. It’s should it be built.
 - [Serverless Land](https://serverlessland.com/) - AWS Serverless Patterns.
 - [AppCircle Blog](https://blog.appcircle.io/category/ios) - Swift updates.
 - [Markdoc](https://markdoc.dev/) - Open-source version of markdown.
+- [C++ Textbook](https://www.stroustrup.com/programming.html) - Open source textbook for C/C++ good for low level programming
 
 ## Travel and Accommodation
 - [HotelTonight](https://www.hoteltonight.com/) - Great way to get hotels the night before.
