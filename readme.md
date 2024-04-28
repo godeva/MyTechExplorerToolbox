@@ -102,6 +102,7 @@ Not can it be built…. It’s should it be built.
 ## Startups and Workflow Design
 - [Zumma](https://www.tuzumma.com/) - Startup focusing on fintech.
 - [Git Branching Strategies](https://www.flagship.io/git-branching-strategies/) - Article on designing a workflow for Git.
+- [Github Pages Templates](https://github.com/nordicgiant2/awesome-landing-page?tab=readme-ov-file) - create for starting up a quick website
 
 ## Personal Improvement and Fun
 - [Invest Like The Best with Patrick O'Shaughnessy](https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909) - Podcast for improving startup skills.
