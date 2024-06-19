@@ -110,6 +110,7 @@ Not can it be built…. It’s should it be built.
 - [Beeminder](https://www.beeminder.com/users/sign_up) - Goal-setting platform.
 - Learn Russian with Babbel or Memrise - Language learning apps.
 - [Control your mouse by looking at your screen](https://precisiongazemouse.org/) - Precision gaze mouse.
+- [Custom ringtone setup for iOS](https://www.youtube.com/watch?v=O-wE6fe113I)
 
 ## Cryptocurrency and Blockchain
 - [Solana Developers](https://solana.com/developers) - Building on the Solana blockchain.
