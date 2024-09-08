@@ -98,6 +98,12 @@ Not can it be built…. It’s should it be built.
 - [ZSA Moonlander](https://www.zsa.io/moonlander/buy) - Ergonomic keyboard.
 - [Framework Laptops](https://frame.work/products/laptop-12-gen-intel/configuration/edit) - Build your own laptop.
 
+For sure, I’d say the one the most people go for the Logitech Ergo K860.
+
+I’ve been looking at split keyboards recently and this caught my eye but it’s not for everyone . https://www.zsa.io/moonlander/buy 
+
+
+
 ## Startups and Workflow Design and Insights
 - [Zumma](https://www.tuzumma.com/) - Startup focusing on fintech.
 - [Git Branching Strategies](https://www.flagship.io/git-branching-strategies/) - Article on designing a workflow for Git.
