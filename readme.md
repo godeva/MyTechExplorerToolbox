@@ -2,6 +2,7 @@
 
 ### Table of Contents
 - [Git and Development Tools](#git-and-development-tools)
+- [AI](#ai)
 - [Interview Preparation](#interview-preparation)
 - [Learning Resources](#learning-resources)
 - [Travel and Accommodation](#travel-and-accommodation)
@@ -33,6 +34,10 @@ Not can it be built…. It’s should it be built.
 - [GitHub Education Pack](https://education.github.com/pack) - GitHub developer practice for interviews.
 - [Git Reflog Documentation](https://git-scm.com/docs/git-reflog) - Goes through the logs and can select to see them or revert to them in git.
 - [Instabug Documentation](https://www.instabug.com/) - Instabug is like firebase or adobe analytics except it does everything for you. Good for POC development.
+
+## AI
+- [Relevance AI](https://relevanceai.com/) - A platform focused on unlocking the potential of unstructured data using AI.  
+- [Treblle](https://treblle.com/) - Simplify and accelerate API development, testing, and monitoring with Treblle.
 
 ## Interview Preparation
 - [GitHub Copilot](https://github.com/features/copilot) - AI tool for code suggestions and completion.
